@@ -25,6 +25,10 @@
 
 ## 👨‍💻 &nbsp;About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```yaml
 name: Panav Patel
 located_in: India
@@ -36,11 +40,20 @@ focus_areas:
   - Full-Stack Development
 
 currently:
-  - 🔭 Building scalable web platforms & database-driven applications
-  - 🌱 Exploring Google Genkit, Gemini AI & advanced system design
-  - 💬 Ask me about React, Node.js, FastAPI, or database architecture
-  - ⚡ Fun fact: I architect systems that are as fast as they are elegant
+  - 🔭 Building scalable web platforms
+  - 🌱 Exploring Gemini AI & system design
+  - 💬 Ask me about React, Node, FastAPI
+  - ⚡ Systems as fast as they are elegant
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coder Animation"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
