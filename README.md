@@ -22,10 +22,8 @@
 
 </div>
 
-<!-- Horizontal Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 ```yaml
 name: Panav Patel
@@ -45,9 +43,6 @@ currently:
 ```
 
 <br/>
-
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -91,9 +86,6 @@ currently:
 </div>
 
 <br/>
-
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -170,9 +162,6 @@ currently:
 
 <br/>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
@@ -192,9 +181,6 @@ currently:
 
 <br/>
 
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 💼 &nbsp;Experience
 
 | Role | Company | Period |
@@ -204,9 +190,6 @@ currently:
 | **Web Development Intern** | Corizo | Feb 2025 — Mar 2025 |
 
 <br/>
-
-<!-- Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
